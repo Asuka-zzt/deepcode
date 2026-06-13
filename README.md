@@ -1,2 +1,3 @@
 # deepcode
 
+这是一个参考claude和codex打造的coding agent,编程语言使用python,主要使用langchain和langgraph作为开发框架,并在langchain,langgraph上进行二次开发.

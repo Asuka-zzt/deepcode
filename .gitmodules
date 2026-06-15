@@ -1,0 +1,6 @@
+[submodule "vendor/langchain"]
+	path = vendor/langchain
+	url = https://github.com/langchain-ai/langchain.git
+[submodule "vendor/langgraph"]
+	path = vendor/langgraph
+	url = https://github.com/langchain-ai/langgraph.git
